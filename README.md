@@ -1,6 +1,6 @@
 
 <!-- VISITOR COUNTER -->
-<div align="center">
+iv align="center">
   <img src="https://komarev.com/ghpvc/?username=sinkaanusha367-art&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
