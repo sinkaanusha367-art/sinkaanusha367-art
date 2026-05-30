@@ -70,10 +70,14 @@
 
 ---
 
+
 ## 🌐 Connect With Me
 
-[GitHub Profile](https://github.com/sinkaanusha367-art) | [Portfolio](https://github.com/sinkaanusha367-art/My-portfolio-)
+[GitHub Profile](https://github.com/sinkaanusha367-art) | [Portfolio](https://github.com/sinkaanusha367-art/My-portfolio-) | [LinkedIn](https://www.linkedin.com/in/anusha-sinka-4a3a192b8)
 
+
+
+---
 ## 📊 GitHub Stats
 
 
