@@ -106,22 +106,13 @@
 
 ---
 
+
 ## 🤝 Let's Build Something Together
-ideas — let's connect!**
 
-[
+💬 Open to collabs, feedback, and new ideas!
 
-![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)
+[GitHub](https://github.com/sinkaanusha367-art) | [Portfolio](https://github.com/sinkaanusha367-art/My-portfolio-)
 
-](https://github.com/sinkaanusha367-art) [
-
-![Portfolio](https://img.shields.io/badge/Portfolio-View-FF5722?style=flat-square&logo=google-chrome)
-
-](https://github.com/sinkaanusha367-art/My-portfolio-)
-
-💬 **Open to collabs, feedback, and new 
----
-
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"First, solve the problem. Then, write the code."*
 
 **Thanks for visiting! Drop a ⭐ on anything that helps you 🙌**
