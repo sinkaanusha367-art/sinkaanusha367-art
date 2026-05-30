@@ -72,17 +72,7 @@
 
 ## 🌐 Connect With Me
 
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-sinkaanusha367--art-181717?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/sinkaanusha367-art) [
-
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)
-
-](https://github.com/sinkaanusha367-art/My-portfolio-)
-
----
+[GitHub Profile](https://github.com/sinkaanusha367-art) | [Portfolio](https://github.com/sinkaanusha367-art/My-portfolio-)
 
 ## 📊 GitHub Stats
 
@@ -117,8 +107,7 @@
 ---
 
 ## 🤝 Let's Build Something Together
-
-💬 **Open to collabs, feedback, and new ideas — let's connect!**
+ideas — let's connect!**
 
 [
 
@@ -130,6 +119,7 @@
 
 ](https://github.com/sinkaanusha367-art/My-portfolio-)
 
+💬 **Open to collabs, feedback, and new 
 ---
 
 *"First, solve the problem. Then, write the code."* — John Johnson
